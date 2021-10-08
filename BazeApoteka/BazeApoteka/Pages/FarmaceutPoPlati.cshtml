@@ -1,0 +1,34 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.FarmaceutPoPlatiModel
+@{
+}
+<form method="post">
+    <input type="hidden" id="id" asp-for="@Model.Prosledjeno" />
+
+    <div>
+        <br />
+        @if (Model.farmaceuti.Count != 0)
+        {
+            @foreach (BazeApoteka.Entiteti.Farmaceut f in Model.farmaceuti)
+            {
+                <div>
+                    <div class="font-weight-bold">@f.Ime @f.Prezime</div>
+                    <div>Plata: @f.Plata</div>
+                </div>
+                <br />
+                <br />
+            }
+        }
+
+        @if (Model.farmaceuti.Count == 0)
+        {
+            <br />
+            <div class="font-italic">Farmaceut sa imenom @Model.Prosledjeno ne postoji!</div>
+            <br />
+        }
+    </div>
+    <br />
+    <input type="submit" value="Nazad" asp-page="./UcitajFarmaceuta" />
+
+
+</form>

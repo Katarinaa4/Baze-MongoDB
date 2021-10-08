@@ -1,0 +1,21 @@
+﻿@page  "{id}"
+@model BazeApoteka.Pages.PrepisiReceptModel
+@{
+    ViewData["Title"] = "PrepisiRecept";
+}
+
+    <form method="post">
+        <br />
+        <div class="font-weight-bold"> Inscriptio: @Model.lekar.UstanovaGdeRadi</div>
+        <br />
+        <div> NomenAegroti: @Model.pacijent.Ime @Model.pacijent.Prezime @Model.pacijent.BrojZdravstveneKnjizice @Model.pacijent.Adresa</div>
+        <div class="font-italic"> Ordinatio:  </div> <input type="text" asp-for="@Model.recept.Ordinatio" />
+        <div class="font-italic"> Subscriptio</div> <input type="text" asp-for="@Model.recept.Subscriptio" />
+        <div class="font-italic"> Signatura</div> <input type="text" asp-for="@Model.recept.Signatura" />
+        <br />
+        <div>Nomen medici: @Model.lekar.Ime @Model.lekar.Prezime </div>
+        <br />
+        <div>______________________________</div>
+        <input type="submit" value="Sacuvaj recept" asp-page-handler="Dodaj" asp-route-id="@Model.recept.Id.ToString()"/>
+        <input type="submit" value="Nazad" asp-page="./Lekar" />
+    </form>

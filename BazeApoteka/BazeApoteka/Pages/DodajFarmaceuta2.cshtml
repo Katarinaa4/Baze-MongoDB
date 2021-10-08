@@ -1,0 +1,34 @@
+﻿@page
+@model BazeApoteka.Pages.DodajFarmaceuta2Model
+@{
+}
+    <form method="post">
+        @if (!Model.ok)
+        {
+            <br />
+            <div><h4>Unesite podatke novog farmaceuta</h4></div>
+            <br />
+            <div>Ime:</div>
+            <input type="text" asp-for="@Model.Farmaceut.Ime" />
+            <div>Prezime:</div>
+            <input type="text" asp-for="@Model.Farmaceut.Prezime" />
+            <div>Plata:</div>
+            <input type="text" asp-for="@Model.Farmaceut.Plata" />
+            <br />
+            <div>
+                Registarski broj apoteke u kojoj je zaposlen:
+                <input type="text" asp-for="@Model.Apoteka.RegistarskiBroj" />
+                <br />
+            </div>
+            <div>
+                <br />
+                <input type="submit" value="Dodaj" asp-page-handler="Dodaj" />
+                <input type="submit" value="Nazad" asp-page="./Admin" />
+            </div>
+        }
+        else
+        {
+            <div>uspesno ste dodali farmaceuta @Model.Farmaceut.Ime @Model.Farmaceut.Prezime </div>
+            <input type="submit" value="Nazad" asp-page="./Admin" />
+        }
+    </form>

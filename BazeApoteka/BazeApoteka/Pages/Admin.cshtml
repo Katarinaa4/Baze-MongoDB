@@ -1,0 +1,77 @@
+﻿@page
+@model BazeApoteka.Pages.AdminModel
+@{
+    ViewData["Title"] = "Admin";
+}
+
+<form method="post">
+    <div class="text-center">
+        <h1>Administrator</h1>
+    </div>
+    <br />
+    <div>
+        <div class="font-weight-bolder">Apoteka</div>
+        <br />
+        <input type="submit" value="Dodaj apoteku" asp-page="./DodajApoteku" />
+        <input type="submit" value="Izmeni apoteku" asp-page="./IzmeniApoteku" />
+        <input type="submit" value="Obrisi apoteku" asp-page="./ObrisiApoteku" />
+        <input type="submit" value="Ucitaj apoteku" asp-page="./UcitajApoteku" />
+        <input type="submit" value="Ucitaj sve apoteke" asp-page="./UcitajSveApoteke" />
+    </div>
+    <br />
+    <div>___________________________________________________________________________________________________________________________________</div>
+    <br />
+    <div>
+        <div class="font-weight-bolder">Korisnik</div>
+        <br />
+        <input type="submit" value="Dodaj korisnika" asp-page="./DodajKorisnika" />
+        <input type="submit" value="Izmeni korisnika" asp-page="./IzmeniKorisnika" />
+        <input type="submit" value="Obrisi korisnika" asp-page="./ObrisiKorisnika" />
+        <input type="submit" value="Ucitaj korisnika" asp-page="./UcitajKorisnika" />
+        <input type="submit" value="Ucitaj sve korisnike" asp-page="./UcitajSveKorisnike" />
+    </div>
+    <br />
+    <div>___________________________________________________________________________________________________________________________________</div>
+    <br />
+    <div>
+        <div class="font-weight-bolder">Lek</div>
+        <br />
+        <input type="submit" value="Dodaj lek" asp-page="./DodajLek2" />
+        <input type="submit" value="Izmeni lek" asp-page="./IzmeniLek" />
+        <input type="submit" value="Obrisi lek" asp-page="./ObrisiLek" />
+        <input type="submit" value="Ucitaj lek" asp-page="./UcitajLek" />
+        <input type="submit" value="Ucitaj sve lekove" asp-page="./UcitajSveLekove" />
+    </div>
+    <br />
+    <div>___________________________________________________________________________________________________________________________________</div>
+    <br />
+    <div>
+        <div class="font-weight-bolder">Lekar</div>
+        <br />
+        <input type="submit" value="Dodaj lekara" asp-page="./DodajLekara" />
+        <input type="submit" value="Izmeni lekara" asp-page="./IzmeniLekara" />
+        <input type="submit" value="Obrisi lekara" asp-page="./ObrisiLekar" />
+        <input type="submit" value="Ucitaj lekara" asp-page="./UcitajLekara" />
+        <input type="submit" value="Ucitaj sve lekare" asp-page="./UcitajSveLekare" />
+    </div>
+    <br />
+    <div>___________________________________________________________________________________________________________________________________</div>
+    <br />
+    <div>
+        <div class="font-weight-bolder">Farmaceut</div>
+        <br />
+        <input type="submit" value="Dodaj farmaceuta" asp-page="./DodajFarmaceuta2" />
+        <input type="submit" value="Izmeni farmaceuta" asp-page="./IzmeniFarmaceuta" />
+        <input type="submit" value="Obrisi farmaceuta" asp-page="./ObrisiFarmaceuta" />
+        <input type="submit" value="Ucitaj farmaceuta" asp-page="./UcitajFarmaceuta" />
+        <input type="submit" value="Ucitaj sve farmaceute" asp-page="./UcitajSveFarmaceute" />
+    </div>
+    <br />
+    <div>___________________________________________________________________________________________________________________________________</div>
+    <br />
+    <br />
+    <div>
+        <input type="submit" value="Nazad" asp-page="./Index" />
+    </div>
+</form>
+

@@ -1,0 +1,845 @@
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.exe
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csprojAssemblyReference.cache
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorAssemblyInfo.cache
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorAssemblyInfo.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.AssemblyInfoInputs.cache
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.AssemblyInfo.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.TagHelpers.input.cache
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.TagHelpers.output.cache
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorCoreGenerate.cache
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorTargetAssemblyInfo.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\staticwebassets\BazeApoteka.StaticWebAssets.Manifest.cache
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\staticwebassets\BazeApoteka.StaticWebAssets.xml
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csproj.CopyComplete
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.deps.json
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.runtimeconfig.json
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.runtimeconfig.dev.json
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.pdb
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.Views.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.Views.pdb
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.Views.pdb
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.pdb
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.genruntimeconfig.cache
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Admin.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajApoteku.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Farmaceut.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajApoteku2.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajFarmaceuta.cshtml.g.cs
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Thin.dll
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csproj.CoreCompileInputs.cache
+C:\Users\Jovana\source\repos\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.exe
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.deps.json
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.runtimeconfig.json
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.pdb
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.Views.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.Views.pdb
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Thin.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorAssemblyInfo.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorAssemblyInfo.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\staticwebassets\BazeApoteka.StaticWebAssets.Manifest.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\staticwebassets\BazeApoteka.StaticWebAssets.xml
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\scopedcss\bundle\BazeApoteka.styles.css
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.TagHelpers.input.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.TagHelpers.output.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorCoreGenerate.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Admin.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajApoteku.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajApoteku2.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajFarmaceuta.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Farmaceut.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorTargetAssemblyInfo.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorTargetAssemblyInfo.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.Views.pdb
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csproj.CopyComplete
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.pdb
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.genruntimeconfig.cache
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.Legacy.dll
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Korisnik.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Lekar.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikaziSveApoteke.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazLekova.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLek.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveApoteke.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajKorisnika.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLekara.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveKorisnike.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveLekove.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveLekare.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveFarmaceute.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajFarmaceuta2.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLek2.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazFarmaceuta.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DostupniLekovi.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajApoteku.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoNazivu.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoAdresi.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoRegistarskomBroju.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KorisnikBrKnjizice.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajKorisnika.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekGenNaziv.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekKomNaziv.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajLek.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoImenu.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajLekara.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoPrezimenu.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoUstanovi.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajFarmaceuta.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoImenu.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoPlati.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoPrezimenu.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLekF.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazLekara.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KupiLek.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzaberiLekara.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniApoteku.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniKorisnika.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniLek.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniFarmaceuta.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniLekara.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.exe
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.deps.json
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.runtimeconfig.json
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.runtimeconfig.dev.json
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.pdb
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.Views.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.Views.pdb
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.Legacy.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Thin.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csprojAssemblyReference.cache
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.AssemblyInfoInputs.cache
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.AssemblyInfo.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csproj.CoreCompileInputs.cache
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.MvcApplicationPartsAssemblyInfo.cache
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorAssemblyInfo.cache
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorAssemblyInfo.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\staticwebassets\BazeApoteka.StaticWebAssets.Manifest.cache
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\staticwebassets\BazeApoteka.StaticWebAssets.xml
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\scopedcss\bundle\BazeApoteka.styles.css
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.TagHelpers.input.cache
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.TagHelpers.output.cache
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorCoreGenerate.cache
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Admin.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoAdresi.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoNazivu.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoRegistarskomBroju.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajApoteku.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajApoteku2.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajFarmaceuta.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajFarmaceuta2.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajKorisnika.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLek.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLek2.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLekara.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLekF.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DostupniLekovi.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Farmaceut.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoImenu.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoPlati.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoPrezimenu.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzaberiLekara.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniApoteku.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniFarmaceuta.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniKorisnika.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniLek.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniLekara.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Korisnik.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KorisnikBrKnjizice.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KupiLek.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Lekar.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoImenu.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoPrezimenu.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoUstanovi.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekGenNaziv.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekKomNaziv.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiApoteku.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiFarmaceuta.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiKorisnika.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiLek.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiLekar.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazFarmaceuta.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikaziSveApoteke.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazLekara.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazLekova.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajApoteku.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajFarmaceuta.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajKorisnika.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajLek.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajLekara.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveApoteke.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveFarmaceute.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveKorisnike.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveLekare.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveLekove.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorTargetAssemblyInfo.cache
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorTargetAssemblyInfo.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.Views.pdb
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csproj.CopyComplete
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.dll
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.pdb
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.genruntimeconfig.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.exe
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.deps.json
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.runtimeconfig.json
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.runtimeconfig.dev.json
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.pdb
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.Views.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.Views.pdb
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.Legacy.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Thin.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csprojAssemblyReference.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csproj.CoreCompileInputs.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorAssemblyInfo.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorAssemblyInfo.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.AssemblyInfoInputs.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.AssemblyInfo.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.TagHelpers.input.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.TagHelpers.output.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorCoreGenerate.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Admin.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoAdresi.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoNazivu.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoRegistarskomBroju.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajApoteku.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajApoteku2.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajFarmaceuta.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajFarmaceuta2.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajKorisnika.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLek.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLek2.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLekara.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLekF.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DostupniLekovi.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Farmaceut.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoImenu.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoPlati.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoPrezimenu.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzaberiLekara.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniApoteku.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniFarmaceuta.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniKorisnika.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniLek.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniLekara.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Korisnik.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KorisnikBrKnjizice.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KupiLek.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Lekar.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoImenu.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoPrezimenu.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoUstanovi.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekGenNaziv.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekKomNaziv.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiApoteku.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiFarmaceuta.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiKorisnika.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiLek.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiLekar.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazFarmaceuta.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikaziSveApoteke.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazLekara.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazLekova.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajApoteku.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajFarmaceuta.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajKorisnika.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajLek.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajLekara.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveApoteke.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveFarmaceute.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveKorisnike.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveLekare.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveLekove.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorTargetAssemblyInfo.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.Views.pdb
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csproj.CopyComplete
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\staticwebassets\BazeApoteka.StaticWebAssets.Manifest.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\staticwebassets\BazeApoteka.StaticWebAssets.xml
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.dll
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.pdb
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.genruntimeconfig.cache
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrepisiRecept.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UspesnoReceptLekar.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObradiRecept.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObradjeniRecepti.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObradiRecept.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObradjeniRecepti.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiApoteku.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiFarmaceuta.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiKorisnika.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiLek.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiLekar.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrepisiRecept.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UspesnoReceptLekar.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekOpsirno.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KupiLek2.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KupiLek2.cshtml.g.cs
+C:\Users\Jovana\Desktop\GIT\Baze-Treci\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekOpsirno.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.exe
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.deps.json
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.runtimeconfig.json
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.runtimeconfig.dev.json
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.pdb
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.Views.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\BazeApoteka.Views.pdb
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.Legacy.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\MongoDB.Thin.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csprojAssemblyReference.cache
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csproj.CoreCompileInputs.cache
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorAssemblyInfo.cache
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorAssemblyInfo.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.AssemblyInfoInputs.cache
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.AssemblyInfo.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.TagHelpers.input.cache
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.TagHelpers.output.cache
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorCoreGenerate.cache
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Admin.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoAdresi.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoNazivu.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ApotekaPoRegistarskomBroju.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajApoteku.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajApoteku2.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajFarmaceuta.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajFarmaceuta2.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajKorisnika.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLek.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLek2.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLekara.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DodajLekF.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\DostupniLekovi.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Farmaceut.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoImenu.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoPlati.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\FarmaceutPoPrezimenu.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzaberiLekara.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniApoteku.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniFarmaceuta.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniKorisnika.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniLek.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\IzmeniLekara.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Korisnik.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KorisnikBrKnjizice.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KupiLek.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KupiLek2.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Lekar.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoImenu.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoPrezimenu.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekarPoUstanovi.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekGenNaziv.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekKomNaziv.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekOpsirno.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObradiRecept.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObradjeniRecepti.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiApoteku.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiFarmaceuta.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiKorisnika.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiLek.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObrisiLekar.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrepisiRecept.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazFarmaceuta.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikaziSveApoteke.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazLekara.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrikazLekova.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajApoteku.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajFarmaceuta.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajKorisnika.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajLek.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajLekara.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveApoteke.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveFarmaceute.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveKorisnike.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveLekare.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UcitajSveLekove.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UspesnoReceptLekar.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.RazorTargetAssemblyInfo.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.Views.pdb
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.csproj.CopyComplete
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\staticwebassets\BazeApoteka.StaticWebAssets.Manifest.cache
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\staticwebassets\BazeApoteka.StaticWebAssets.xml
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.dll
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.pdb
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\BazeApoteka.genruntimeconfig.cache
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\KupiLek2.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\LekOpsirno.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObradiRecept.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\ObradjeniRecepti.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\PrepisiRecept.cshtml.g.cs
+D:\NBP\Mongo\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\UspesnoReceptLekar.cshtml.g.cs
+C:\Users\Korisnik\Documents\NBP\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutPocetna.cshtml.g.cs
+C:\Users\Jovana\Desktop\New folder\TreciProjekat\BazeApoteka\BazeApoteka\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutPocetna.cshtml.g.cs

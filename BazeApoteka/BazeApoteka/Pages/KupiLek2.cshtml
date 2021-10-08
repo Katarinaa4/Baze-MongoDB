@@ -1,0 +1,32 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.KupiLek2Model
+@{
+}
+<form method="post">
+    <input type="hidden" id="id" asp-for="@Model.Prosledjeno" />
+    <div>
+      
+            <div>
+                <h5>Kupovina leka</h5>
+                <br />
+                <div class="font-weight-bold"> @Model.lek.GenerickiNaziv (@Model.lek.KomercijaniNaziv) @Model.lek.Doza mg </div>
+                <br />
+                <div class="font-weight-bold">Cena leka je @Model.lek.Cena rsd.</div>
+                <br />
+                <div>
+                    Unesite broj zdravstvene knjizice:
+                    <input type="text" asp-for="@Model.Korisnik.BrojZdravstveneKnjizice"  />
+                    <div>
+                        <input type="submit" asp-page-handler="Kupi" value="Kupi" asp-route-id="@Model.Prosledjeno"/>
+                    </div>
+                   
+                </div>
+                @if(Model.PorukaKorisniku!= null)
+                {
+                    <br />
+                    <div class="font-weight-bolder">*@Model.PorukaKorisniku!*</div>
+                }
+            </div>
+        
+    </div>
+</form>

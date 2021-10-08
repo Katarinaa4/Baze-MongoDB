@@ -1,0 +1,42 @@
+﻿@page
+@model BazeApoteka.Pages.ObrisiLekarModel
+@{
+}
+<form method="post">
+
+    <div class="text-center">
+        <h2>Lista svih lekara</h2>
+    </div>
+    <br />
+    <div>
+        <br />
+        @foreach (BazeApoteka.Entiteti.Lekar lek in Model.lekari)
+        {
+            <div>
+                <div class="font-weight-bold">Ime lekara: @lek.Ime</div>
+                Prezime: @lek.Prezime
+                ID; @lek.Id
+                Ustanova gde radi: @lek.UstanovaGdeRadi
+                @if (lek.Pacijenti != null)
+                {
+                    <div>Broj pacijenata ovog lekara: @lek.Pacijenti.Count</div>
+                }
+
+            </div>
+
+            <br />
+            <br />
+        }
+    </div>
+    <div>
+        Unesi id lekara koga zelis izbrisati:
+        <br />
+       
+        <input type="text" id="id" asp-for="@Model.ProsledjenoIme" />
+        <input type="submit" value="Obrisi lekara" asp-page-handler="Obrisi" />
+
+    </div>
+   
+    <br />
+    <div><input type="submit" value="Nazad" asp-page="./Admin" /></div>
+</form>

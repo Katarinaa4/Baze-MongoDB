@@ -1,0 +1,26 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.KupiLekModel
+@{
+}
+<form method="post">
+    <input type="hidden" id="id" asp-for="@Model.Lek.Id" />
+    <div>
+        @foreach (BazeApoteka.Entiteti.Lek l in Model.lekovi)
+        {
+        <div>
+
+            <div class="font-weight-bold"> @l.GenerickiNaziv (@l.KomercijaniNaziv) @l.Doza mg </div>
+            <br />
+            <div class="font-weight-bold">Cena leka je @l.Cena rsd.</div>
+            <br />
+            <div>
+                Unesite broj zdravstvene knjizice: 
+                <input type="text" asp-for="@Model.Korisnik.BrojZdravstveneKnjizice" />
+                <div>
+                    <input type="submit" asp-page-handler="Kupi" />
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+</form>

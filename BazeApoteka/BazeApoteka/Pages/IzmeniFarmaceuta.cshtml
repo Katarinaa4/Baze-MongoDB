@@ -1,0 +1,51 @@
+﻿@page
+@model BazeApoteka.Pages.IzmeniFarmaceutaModel
+@{
+}
+<form method="post">
+    @if (!Model.ok)
+    {
+
+
+    <div>
+        <br />
+        <h4>Izmena Farmaceuta</h4>
+        <br />
+        <div class="font-italic">
+            Bice azurirani samo oni parametri cije vrednosti unesete
+        </div>
+        <br />
+    </div>
+    <div>
+        <div>
+            Unesite Id farmaceuta:
+            <input type="text" asp-for="@Model.IdF" />
+        </div>
+        <br />
+        <div>
+            Unesite novo ime farmaceuta:
+            <input type="text" asp-for="@Model.Farmaceut.Ime" />
+        </div>
+        <br />
+        <div>
+            Unesite novo prezime farmaceuta:
+            <input type="text" asp-for="@Model.Farmaceut.Prezime" />
+        </div>
+        <br />
+        <div>
+            Unesite novu platu:
+            <input type="text" asp-for="@Model.Farmaceut.Plata" />
+        </div>
+        <br />
+    </div>
+    <br />
+    <input type="submit" value="Azuriraj" asp-page-handler="Izmena" />
+    }
+    else
+    {
+        <div>Uspesno ste azurirali farmaceuta @Model.Farmaceut2.Ime @Model.Farmaceut2.Prezime</div>
+    }
+    <br />
+    <div>_________________________________________</div>
+    <input type="submit" value="Nazad" asp-page="./Admin" />
+</form>

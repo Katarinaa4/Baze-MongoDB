@@ -1,0 +1,49 @@
+﻿@page
+@model BazeApoteka.Pages.IzmeniLekaraModel
+@{
+}
+<form method="post">
+    @if (!Model.ok)
+    {
+    <div>
+        <br />
+        <h4>Izmena Lekara</h4>
+        <br />
+        <div class="font-italic">
+            Bice azurirani samo oni parametri cije vrednosti unesete
+        </div>
+        <br />
+    </div>
+    <div>
+        <div>
+            Unesite Id lekara:
+            <input type="text" asp-for="@Model.IdL" />
+        </div>
+        <br />
+        <div>
+            Unesite novo ime lekara:
+            <input type="text" asp-for="@Model.Lekar.Ime" />
+        </div>
+        <br />
+        <div>
+            Unesite novo prezime lekara:
+            <input type="text" asp-for="@Model.Lekar.Prezime" />
+        </div>
+        <br />
+        <div>
+            Unesite novu ustanovu u kojoj lekar radi:
+            <input type="text" asp-for="@Model.Lekar.UstanovaGdeRadi" />
+        </div>
+        <br />
+    </div>
+    <br />
+    <input type="submit" value="Azuriraj" asp-page-handler="Izmena" />
+    }
+    else
+    {
+        <div>Uspesno ste azurirali lekara @Model.Lekar2.Ime @Model.Lekar2.Prezime </div>
+    }
+    <br />
+    <div>_________________________________________</div>
+    <input type="submit" value="Nazad" asp-page="./Admin" />
+</form>

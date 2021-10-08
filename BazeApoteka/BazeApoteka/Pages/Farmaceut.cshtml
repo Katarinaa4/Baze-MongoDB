@@ -1,0 +1,26 @@
+﻿@page
+@model BazeApoteka.Pages.FarmaceutModel
+@{
+    ViewData["Title"] = "Farmaceut";
+}
+<div class="text-center">
+    <h1>Farmaceut</h1>
+</div>
+<form method="post">
+    <div>
+        <h4>Lista svih farmaceuta</h4>
+    </div>
+    <br />
+    <br />
+    @foreach (BazeApoteka.Entiteti.Farmaceut f in Model.farmaceuti)
+    {
+        <div>
+            <input type="submit" value="Uloguj se kao @f.Ime @f.Prezime" asp-page="./PrikazFarmaceuta" asp-route-id="@f.Id.ToString()" />
+        </div>
+        <br />
+    }
+    <div>______________________________________</div>
+    <div>
+        <input type="submit" value="Nazad" asp-page="./Index" />
+    </div>
+</form>

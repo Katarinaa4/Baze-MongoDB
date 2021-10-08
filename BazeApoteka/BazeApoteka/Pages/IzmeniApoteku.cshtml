@@ -1,0 +1,43 @@
+﻿@page
+@model BazeApoteka.Pages.IzmeniApotekuModel
+@{
+}
+<form method="post">
+    @if (!Model.ok)
+    {
+    <div>
+        <br />
+        <h4>Izmena Apoteke</h4>
+        <br />
+        <div class="font-italic">
+            Bice azurirani samo oni parametri cije vrednosti unesete
+        </div>
+        <br />
+    </div>
+    <div>
+        <div>
+            Unesite registarski broj apoteke koju zelite da izmenite:
+            <input type="text" asp-for="@Model.Apoteka.RegistarskiBroj"/>
+        </div>
+        <br />
+        <div>
+            Unesite nov naziv apoteke:
+            <input type="text" asp-for="@Model.Apoteka.Naziv"/>
+        </div>
+        <br />
+        <div>
+            Unesite novu adresu apoteke:
+            <input type="text" asp-for="@Model.Apoteka.Adresa"/>
+        </div>
+    </div>
+    <br />
+    <input type="submit" value="Azuriraj" asp-page-handler="Izmena" />
+    }
+    else
+    {
+        <div>Uspesno ste azurirali apoteku @Model.Apoteka.Naziv,na aresi: @Model.Apoteka.Adresa</div>
+    }
+    <br />
+    <div>_________________________________________</div>
+    <input type="submit" value="Nazad" asp-page="./Admin" />
+</form>

@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Apoteka";
+    Layout = "_LayoutPocetna";
+}
+<form method="post">
+    <div class="text-center">
+        <br />
+        <h1 class="display-4">Dobrodošli!</h1>
+        <br />
+    </div>
+    <div class="text-center">
+        <input type="submit" value="Admin" asp-page="./Admin" />
+        <input type="submit" value="Lekar" asp-page="./Lekar" />
+        <input type="submit" value="Farmaceut" asp-page="./Farmaceut" />
+        <input type="submit" value="Korisnik" asp-page="./Korisnik" />
+    </div>
+</form>

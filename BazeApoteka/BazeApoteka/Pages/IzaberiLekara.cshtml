@@ -1,0 +1,32 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.IzaberiLekaraModel
+@{
+}
+<form method="post">
+    <input type="hidden" id="id" asp-for="@Model.Prosledjeno" />
+    @if (!Model.ok)
+    {         <div>
+            <h2>Lista lekara</h2>
+        </div>
+        <br />
+        <br />
+        @foreach (BazeApoteka.Entiteti.Lekar l in Model.lekari)
+        {
+            <div>
+                <div class="font-weight-bold">
+                    @l.Ime @l.Prezime <input type="submit" value="Izaberi" asp-page-handler="Izaberi" asp-route-id="@l.Id.ToString()" />
+                </div>
+            </div>
+            <br />
+            <div>____________________________________________</div>
+            <br />
+        }
+    }
+    else
+    {
+        <div>Uspesno ste dodali korisnika @Model.Korisnik.Ime, @Model.Korisnik.Prezime</div>
+    }
+        <div>
+            <input type="submit" value="Nazad" asp-page="./Admin" />
+        </div>
+</form>

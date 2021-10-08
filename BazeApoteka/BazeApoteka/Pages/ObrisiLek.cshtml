@@ -1,0 +1,44 @@
+﻿@page
+@model BazeApoteka.Pages.ObrisiLekModel
+@{
+}
+<form method="post">
+
+    <div class="text-center">
+        <h2>Lista svih apoteka</h2>
+    </div>
+    <br />
+
+    <div>
+        <div class="font-weight-bold">Lista lekova</div>
+        <br />
+        <br />
+        @if (Model.lekovi != null)
+        {
+            @foreach (BazeApoteka.Entiteti.Lek l in Model.lekovi)
+            {
+                <div>
+                    @l.GenerickiNaziv (@l.KomercijaniNaziv) @l.Doza mg @l.Cena rsd
+                    <div>@l.Dejstvo</div>
+                    <br />
+                </div>
+                <br />
+                <br />
+                <div>_____________________________________________________</div>
+                <br />
+            }
+        }
+        @if (Model.lekovi == null)
+        {
+            <div>Trenutno nije dostupan nijedan lek!</div>
+        }
+    </div>
+    <div>
+        Unesi id Leka kog zelis ukloniti:
+        <input type="text" id="id" asp-for="@Model.Prosledjeno" />
+        <input type="submit" value="Obrisi lek" asp-page-handler="Obrisi" />
+
+    </div>
+    <br />
+    <div><input type="submit" value="Nazad" asp-page="./Admin" /></div>
+</form>

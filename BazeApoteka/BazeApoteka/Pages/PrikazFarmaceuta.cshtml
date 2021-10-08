@@ -1,0 +1,36 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.PrikazFarmaceutaModel
+@{
+}
+<form method="post">
+    <div>
+        <input type="hidden" id="id" asp-for="@Model.Prosledjeno" />
+
+        @foreach(BazeApoteka.Entiteti.Farmaceut f in Model.l)
+        {
+            <div>
+                <div class="font-weight-bold">
+                    Farmaceut: @f.Ime @f.Prezime
+                </div>
+                 <br />
+                 <div>
+                     Vasa plata je @f.Plata rsd.
+                 </div>
+                 <br />
+                 <div class="font-italic">
+            
+                     * Svi dostupni lekovi u apoteci
+                    <input type="submit" value="Prikazi" asp-page="./DostupniLekovi" asp-route-id="@f.Id.ToString()" />
+                  </div>
+                 <br />
+                 <div class="font-italic">
+                     * Dodavanje novog leka
+                    <input type="submit" value="Dodaj" asp-page="./DodajLekF" asp-route-id="@f.Id.ToString()" />
+                 </div>
+                <br />
+                <input type="submit" value="Obradi recept" asp-page="./ObradiRecept" asp-route-id="@f.Id.ToString()"/>
+                <input type="submit" value="Obradjeni recepti" asp-page="./ObradjeniRecepti" asp-route-id="@f.Id.ToString()"/>
+            </div>
+        }
+    </div>
+</form>

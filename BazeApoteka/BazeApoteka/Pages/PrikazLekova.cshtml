@@ -1,0 +1,48 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.PrikazLekovaModel
+@{
+}
+<form method="post">
+    <input type="hidden" id="id" asp-for="@Model.Prosledjeno" />
+    <div>
+        <div class="font-weight-bold">Lista lekova</div>
+        <br />
+        <br />
+        @if (Model.lekovi != null)
+        {
+            @foreach (BazeApoteka.Entiteti.Lek l in Model.lekovi)
+            {
+    <div>
+        @l.GenerickiNaziv (@l.KomercijaniNaziv) @l.Doza mg 
+        <div class="font-weight-bold"> @l.Cena rsd </div>
+        <div>
+            @if (l.DaLiJeNaRecept == "da")
+            {
+                <div class="font-italic">Za kupovinu ovoh leka je potreban recept.</div>
+            }
+            @if (l.DaLiJeNaRecept == "ne")
+            {
+                <div class="font-italic">Ovaj lek se moze kupiti bez recepta.</div>
+            }
+        </div>
+        <div><a asp-page="./LekOpsirno" asp-route-id="@l.Id.ToString()">Procitaj vise o ovom leku...</a></div>
+        <br />
+        <input type="submit" asp-page-handler="KupiLek"  value="Kupi lek " asp-route-idL="@l.Id.ToString()" />
+        
+    </div>
+                <br />
+                <br />
+               
+            }
+        }
+        @if (Model.lekovi == null)
+        {
+            <div>Trenutno nije dostupan nijedan lek!</div>
+        }
+    </div>
+    <div>
+        <br />
+        <div>_____________________________________________________</div>
+        <input type="submit" value="Nazad" asp-page="./Korisnik" />
+    </div>
+</form>

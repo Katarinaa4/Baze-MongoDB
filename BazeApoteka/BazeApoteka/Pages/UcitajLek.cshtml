@@ -1,0 +1,32 @@
+﻿@page
+@model BazeApoteka.Pages.UcitajLekModel
+@{
+}
+<form method="post">
+    <div>
+        <br />
+        <h4>Pretrazivanje lekova</h4>
+        <br />
+    </div>
+    <div>
+        <br />
+        <div class="font-italic">* Pretrazivanje se vrsi po generickom nazivu leka</div>
+        <br />
+        Unesite genericki naziv leka:
+        <input type="text" asp-for="@Model.Lek.GenerickiNaziv" />
+        <input type="submit" value="Prikazi" asp-page-handler="PoGenNazivu" />
+    </div>
+    <br />
+    <br />
+    <div>
+        <br />
+        <div class="font-italic">* Pretrazivanje se vrsi po komercijalnom nazivu leka</div>
+        <br />
+        Unesite komercijalni naziv leka:
+        <input type="text" asp-for="@Model.Lek.KomercijaniNaziv" />
+        <input type="submit" value="Prikazi" asp-page-handler="PoKomNazivu" />
+    </div>
+    <br />
+    <div>___________________________________</div>
+    <input type="submit" asp-page="./Admin" value="Nazad" />
+</form>

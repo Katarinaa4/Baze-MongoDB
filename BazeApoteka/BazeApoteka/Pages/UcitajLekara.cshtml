@@ -1,0 +1,41 @@
+﻿@page
+@model BazeApoteka.Pages.UcitajLekaraModel
+@{
+}
+<form method="post">
+    <div>
+        <br />
+        <h4>Pretrazivanje lekara</h4>
+        <br />
+    </div>
+    <div>
+        <br />
+        <div class="font-italic">* Pretrazivanje se vrsi po imenu lekara</div>
+        <br />
+        Unesite ime lekara:
+        <input type="text" asp-for="@Model.Lekar.Ime" />
+        <input type="submit" value="Prikazi" asp-page-handler="PoImenu" />
+    </div>
+    <br />
+    <div>
+        <br />
+        <div class="font-italic">* Pretrazivanje se vrsi po prezimenu lekara</div>
+        <br />
+        Unesite prezime lekara:
+        <input type="text" asp-for="@Model.Lekar.Prezime" />
+        <input type="submit" value="Prikazi" asp-page-handler="PoPrezimenu" />
+    </div>
+    <br />
+    <div>
+        <br />
+        <div class="font-italic">* Pretrazivanje se vrsi po ustanovi u kojoj radi lekar</div>
+        <br />
+        Unesite ustanovu u kojoj radi:
+        <input type="text" asp-for="@Model.Lekar.UstanovaGdeRadi" />
+        <input type="submit" value="Prikazi" asp-page-handler="PoUstanovi" />
+    </div>
+    <br />
+    <br />
+    <div>___________________________________</div>
+    <input type="submit" asp-page="./Admin" value="Nazad" />
+</form>

@@ -1,0 +1,37 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.DostupniLekoviModel
+@{
+}
+    <form method="post">
+
+        <h2>Ovo su lekovi koji su dostupni u  nasoj apoteci </h2>
+        @foreach (BazeApoteka.Entiteti.Lek l in Model.LekoviApoteke)
+        {
+    <div>
+        <br />
+        <div class="font-weight-bold"> @l.GenerickiNaziv (@l.KomercijaniNaziv) @l.Doza mg </div>
+        <br />
+        <div class="font-weight-bold">Cena leka je @l.Cena rsd.</div>
+        <div>Trenutna kolicina: @l.Kolicina </div>
+        <br />
+        <div>@l.Dejstvo</div>
+        <br />
+        <div class="font-weight-bold">Indikacije</div>
+        <div>@l.Indikacije</div>
+        <br />
+        <div class="font-weight-bold">Kontraindikacije</div>
+        <div>@l.Kontraindikacije</div>
+        <br />
+    </div>
+    <div>
+        <input type="submit" value="Obrisi" asp-page-handler="Obrisi" asp-route-id="@l.Id" />
+        <input type="submit" value="Izmeni" asp-page-handler="IZ" asp-page="./IzmeniLek" asp-route-id="@l.Id" />
+        <br />
+        <div>*************************************************</div>
+    </div>
+        }
+        <br />
+        <div>_________________________________________________</div>
+        
+        <input type="submit" value="Nazad" asp-page="./Farmaceut" />
+    </form>

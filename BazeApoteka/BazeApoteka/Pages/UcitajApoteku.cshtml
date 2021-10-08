@@ -1,0 +1,49 @@
+﻿@page
+@model BazeApoteka.Pages.UcitajApotekuModel
+@{
+}
+<form method="post">
+    <div>
+        <h4>Pretrazivanje apoteka</h4>
+    </div>
+    <br />
+    <br />
+    <div>
+        <div>
+            <div class="font-italic">* Pretrazivanje po nazivu </div>
+            <br />
+            <div>
+                Unesite naziv apoteke: 
+                <input type="text" asp-for="@Model.Apoteka.Naziv" />
+                <input type="submit" value="Prikazi" asp-page-handler="PoNazivu" />
+            </div>
+        </div>
+        <br />
+        <br />
+        <div>
+            <div class="font-italic">* Pretrazivanje po adresi </div>
+            <br />
+            <div>
+                Unesite adresu apoteke: 
+                <input type="text" asp-for="@Model.Apoteka.Adresa" />
+                <input type="submit" value="Prikazi" asp-page-handler="PoAdresi" />
+            </div>
+        </div>
+        <br />
+        <br />
+        <div>
+            <div class="font-italic">* Pretrazivanje po registarskom broju </div>
+            <br />
+            <div>
+                Unesite registarski broj apoteke: 
+                <input type="text" asp-for="@Model.Apoteka.RegistarskiBroj" />
+                <input type="submit" value="Prikazi" asp-page-handler="PoRegistarskomBroju" />
+            </div>
+        </div>
+        <br />
+        <br />
+        <div>___________________________________</div>
+        <br />
+        <input type="submit" asp-page="./Admin" value="Nazad"/>
+    </div>
+</form>

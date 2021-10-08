@@ -1,0 +1,14 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.UspesnoReceptLekarModel
+@{
+    ViewData["Title"] = "UspesnoReceptLekar";
+}
+
+    <form method="post">
+        <br />
+        <h4>Uspesno ste dodali recept!</h4>
+        <br />
+        <input type="submit" value="Nazad" asp-page="./Lekar" />
+        <input type="submit" value="Dodaj jos jedan recept ovom pacijentu" asp-page-handler="JosJedan" asp-route-id="@Model.recept.Id.ToString()" />
+    </form>
+

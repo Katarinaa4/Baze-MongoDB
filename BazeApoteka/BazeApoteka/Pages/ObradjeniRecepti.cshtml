@@ -1,0 +1,21 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.ObradjeniReceptiModel
+@{
+    ViewData["Title"] = "ObradjeniRecepti";
+}
+<form method="post">
+    <div>
+        @foreach(BazeApoteka.Entiteti.Recept r in Model.recepti)
+        {
+            <div>
+                Id: @r.Id
+            </div>
+        }
+    </div>
+    <div>
+        <div>___________________________________________</div>
+        <input type="submit" value="Nazad" asp-page="./Farmaceut" />
+    </div>
+</form>
+
+

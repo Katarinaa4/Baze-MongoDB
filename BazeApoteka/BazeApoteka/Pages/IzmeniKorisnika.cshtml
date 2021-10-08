@@ -1,0 +1,53 @@
+﻿@page
+@model BazeApoteka.Pages.IzmeniKorisnikaModel
+@{
+}
+<form method="post">
+    @if (!Model.ok)
+    {
+    <div>
+        <br />
+        <h4>Izmena Korisnika</h4>
+        <br />
+        <div class="font-italic">
+            Bice azurirani samo oni parametri cije vrednosti unesete
+        </div>
+        <br />
+    </div>
+    <div>
+        <div>
+            Unesite broj zdravstvene knjizice:
+            <input type="text" asp-for="@Model.Korisnik.BrojZdravstveneKnjizice" />
+        </div>
+        <br />
+        <div>
+            Unesite novi broj zdravstvene knjizice:
+            <input type="text" asp-for="@Model.Korisnik.BrojZdravstveneKnjizice" />
+        </div>
+        <br />
+        <div>
+            Unesite novo ime:
+            <input type="text" asp-for="@Model.Korisnik.Ime" />
+        </div>
+        <br />
+        <div>
+            Unesite novo prezime:
+            <input type="text" asp-for="@Model.Korisnik.Prezime" />
+        </div>
+        <br />
+        <div>
+            Unesite novu adresu apoteke:
+            <input type="text" asp-for="@Model.Korisnik.Adresa" />
+        </div>
+    </div>
+    <br />
+    <input type="submit" value="Azuriraj" asp-page-handler="Izmena" />
+    <br />
+    }
+    else
+    {
+        <div>Uspesno ste azurirali korisnika @Model.Korisnik2.Ime @Model.Korisnik2.Prezime </div>
+    }
+    <div>_________________________________________</div>
+    <input type="submit" value="Nazad" asp-page="./Admin" />
+</form>

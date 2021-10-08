@@ -1,0 +1,33 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.LekGenNazivModel
+@{
+}
+<form method="post">
+    <input type="hidden" id="id" asp-for="@Model.Prosledjeno" />
+    <br />
+    <div>
+        <br />
+        @if (Model.lekovi.Count != 0)
+        {
+            @foreach (BazeApoteka.Entiteti.Lek l in Model.lekovi)
+            {
+                <div>
+                    <div>
+                        @l.GenerickiNaziv (@l.KomercijaniNaziv) @l.Doza mg @l.Cena rsd
+                        <div>@l.Dejstvo</div>
+                    </div>
+                    <br />
+                </div>
+                <br />
+            }
+        }
+        @if (Model.lekovi.Count == 0)
+        {
+            <div>Lek sa unetim generickim nazivom @Model.Prosledjeno ne postoji!</div>
+        }
+    </div>
+
+    <br />
+    <input type="submit" value="Nazad" asp-page="./UcitajLek" />
+
+</form>

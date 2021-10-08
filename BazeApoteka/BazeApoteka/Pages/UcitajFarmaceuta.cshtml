@@ -1,0 +1,41 @@
+﻿@page
+@model BazeApoteka.Pages.UcitajFarmaceutaModel
+@{
+}
+<form method="post">
+    <div>
+        <br />
+        <h4>Pretrazivanje farmaceuta</h4>
+        <br />
+    </div>
+    <div>
+        <br />
+        <div class="font-italic">* Pretrazivanje se vrsi po imenu farmaceuta</div>
+        <br />
+        Unesite ime farmaceuta:
+        <input type="text" asp-for="@Model.Farmaceut.Ime" />
+        <input type="submit" value="Prikazi" asp-page-handler="PoImenu" />
+    </div>
+    <br />
+    <div>
+        <br />
+        <div class="font-italic">* Pretrazivanje se vrsi po prezimenu farmaceuta</div>
+        <br />
+        Unesite prezime farmaceuta:
+        <input type="text" asp-for="@Model.Farmaceut.Prezime" />
+        <input type="submit" value="Prikazi" asp-page-handler="PoPrezimenu" />
+    </div>
+    <br />
+    <div>
+        <br />
+        <div class="font-italic">* Pretrazivanje se vrsi po plati farmaceuta</div>
+        <br />
+        Unesite platu farmaceuta:
+        <input type="text" asp-for="@Model.Farmaceut.Plata" />
+        <input type="submit" value="Prikazi" asp-page-handler="PoPlati" />
+    </div>
+    <br />
+    <br />
+    <div>___________________________________</div>
+    <input type="submit" asp-page="./Admin" value="Nazad" />
+</form>

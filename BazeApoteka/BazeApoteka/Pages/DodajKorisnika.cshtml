@@ -1,0 +1,25 @@
+﻿@page
+@model BazeApoteka.Pages.DodajKorisnikaModel
+@{
+    ViewData["Title"] = "DodajKorisnika";
+}
+
+<form method="post">
+    <br />
+    <div><h4>Unesite podatke novog korisnika</h4></div>
+    <br />
+    <div>Ime:</div>
+    <input type="text" asp-for="@Model.Korisnik.Ime" />
+    <div>Prezime:</div>
+    <input type="text" asp-for="@Model.Korisnik.Prezime" />
+    <div>Adresa:</div>
+    <input type="text" asp-for="@Model.Korisnik.Adresa" />
+    <div>Broj zdravstvene knjizice:</div>
+    <input type="text" asp-for="@Model.Korisnik.BrojZdravstveneKnjizice" />
+    <br />
+    <div>
+        <br />
+        <input type="submit" value="Dodaj" asp-page-handler="Dodaj" />
+        <input type="submit" value="Nazad" asp-page="./Admin" />
+    </div>
+</form>

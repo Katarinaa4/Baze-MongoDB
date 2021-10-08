@@ -1,0 +1,53 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.ObradiReceptModel
+@{
+    ViewData["Title"] = "ObradiRecept";
+}
+
+<form method="post">
+    <div>
+        <br />
+        Unesite ime i prezime pacijenta:
+    </div>
+    <input type="text" asp-for="@Model.Pacijent.Ime" />
+    <input type="text" asp-for="@Model.Pacijent.Prezime" />
+    <div>
+        <br />
+        Unesite broj zdravstvene knjizice pacijenta:
+    </div>
+    <input type="text" asp-for="@Model.Pacijent.BrojZdravstveneKnjizice" />
+    <input type="submit" value="Pretrazi recepte" asp-page-handler="Pretrazi" asp-route-id="@Model.Prosledjeno" />
+    @if (Model.ok)
+    {
+        @foreach (BazeApoteka.Entiteti.Recept r in Model.recepti)
+        {
+            <div>
+                <br />
+                <div class="font-weight-bold"><label>* Recept:</label></div>
+                <div>@r.Ordinatio</div>
+                <div>@r.Subscriptio</div>
+                <div>@r.Signatura</div>
+                <input type="submit" value="Pretrazi Lek" asp-page-handler="Lek" asp-route-id="@r.Id" asp-route-idF="@Model.Prosledjeno" />
+                <br />
+            </div>
+        }
+        @if (Model.LekoviApoteke.Count != 0)
+        {
+            @foreach (BazeApoteka.Entiteti.Lek l in Model.LekoviApoteke)
+            {
+                <div>@l.GenerickiNaziv</div>
+                <div>@l.KomercijaniNaziv</div>
+                <div>@l.Doza</div>
+                <div>@l.Cena</div>
+                <input type="submit" value="Izdaj" asp-page-handler="Izdaj" asp-route-id="@l.Id" asp-route-idR="@Model.ReceptZaObradu.Id" />
+            }
+        }
+    }
+    <br />
+    <div>
+        <div>
+        <br />______________________________________________________________</div>
+        <input type="submit" value="Nazad" asp-page="./Farmaceut" />
+    </div>
+</form>
+

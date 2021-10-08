@@ -1,0 +1,27 @@
+﻿@page
+@model BazeApoteka.Pages.PrikaziSveApotekeModel
+@{
+}
+
+<form method="post">
+
+    <div class="text-center">
+        <h2>Apoteke:</h2>
+    </div>
+    <div>
+        <br />
+        @foreach (BazeApoteka.Entiteti.Apoteka a in Model.apoteke)
+        {
+            <div>
+                <div class="font-weight-bold">Apoteka @a.Naziv</div>
+                Adresa: @a.Adresa
+                <div><a asp-page="./PrikazLekova" asp-route-id="@a.Id.ToString()">Lista lekova</a></div>
+            </div>
+            <br />
+        }
+    </div>
+    <br />
+    <div>
+        <input type="submit" value="Nazad" asp-page="./Korisnik" />
+    </div>
+</form>

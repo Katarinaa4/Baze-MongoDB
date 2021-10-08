@@ -1,0 +1,44 @@
+﻿@page
+@model BazeApoteka.Pages.UcitajSveApotekeModel
+@{
+}
+<form method="post">
+
+    <div class="text-center">
+        <h2>Lista svih apoteka</h2>
+    </div>
+    <br />
+    <div>
+        <br />
+        @foreach (BazeApoteka.Entiteti.Apoteka a in Model.apoteke)
+        {
+            <div>
+                <div class="font-weight-bold">Apoteka @a.Naziv</div>
+                Adresa: @a.Adresa
+                Registarski broj: @a.RegistarskiBroj
+                @if (a.Farmaceuti != null)
+                {
+                    <div>Broj farmaceuta: @a.Farmaceuti.Count</div>
+                }
+                @if (a.Farmaceuti == null)
+                {
+                    <div>Broj farmaceuta: 0</div>
+                }
+                @if (a.Lekovi != null)
+                {
+                    <div>Broj dostupnih lekova: @a.Lekovi.Count</div>
+                }
+                @if (a.Lekovi == null)
+                {
+                    <div>Broj dostupnih lekova: 0</div>
+                }
+
+
+            </div>
+            <br />
+        }
+    </div>
+    <div>
+        <input type="submit" value="Nazad" asp-page="./Admin" />
+    </div>
+</form>

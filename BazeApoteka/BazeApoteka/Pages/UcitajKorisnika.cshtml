@@ -1,0 +1,22 @@
+﻿@page
+@model BazeApoteka.Pages.UcitajKorisnikaModel
+@{
+}
+<form method="post">
+    <div>
+        <br />
+        <h4>Pretrazivanje korisnika</h4>
+        <br />
+    </div>
+    <div>
+        <br />
+        <div class="font-italic">* Pretrazivanje se vrsi po broju zdravstvene knjizice korisnika</div>
+        <br />
+        Unesite broj zdravstene knjizice:
+        <input type="text" asp-for="@Model.Korisnik.BrojZdravstveneKnjizice" />
+        <input type="submit" value="Prikazi" asp-page-handler="PoBrKnjizice" />
+    </div>
+    <br />
+    <div>___________________________________</div>
+    <input type="submit" asp-page="./Admin" value="Nazad" />
+</form>

@@ -1,0 +1,32 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.DodajLekFModel
+@{
+}
+<form method="post">
+    <input type="hidden" id="id" asp-for="@Model.Prosledjeno" />
+    <div>Genericki naziv:</div>
+    <input type="text" asp-for="@Model.Lek.GenerickiNaziv" />
+    <div>Komercijalni naziv:</div>
+    <input type="text" asp-for="@Model.Lek.KomercijaniNaziv" />
+    <div>Cena:</div>
+    <input type="text" asp-for="@Model.Lek.Cena" />
+    <div>Doza:</div>
+    <input type="text" asp-for="@Model.Lek.Doza" />
+    <div>Kolicina:</div>
+    <input type="text" asp-for="@Model.Lek.Kolicina" />
+    <div>Da li je na recept (da/ne):</div>
+    <input type="text" asp-for="@Model.Lek.DaLiJeNaRecept" />
+    <div>Dejstvo:</div>
+    <input type="text" asp-for="@Model.Lek.Dejstvo" />
+    <div>Indikacije:</div>
+    <input type="text" asp-for="@Model.Lek.Indikacije" />
+    <div>Kontraindikacije:</div>
+    <input type="text" asp-for="@Model.Lek.Kontraindikacije" />
+
+    <input type="submit" value="Dodaj" asp-page-handler="Dodaj" asp-route-pom="@Model.Prosledjeno" />
+
+    <br />
+    <br />
+    <div>______________________________</div>
+    <input type="submit" value="Nazad" asp-page="./Farmaceut" />
+</form>

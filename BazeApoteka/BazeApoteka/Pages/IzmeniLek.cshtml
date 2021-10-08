@@ -1,0 +1,74 @@
+﻿@page
+@model BazeApoteka.Pages.IzmeniLekModel
+@{
+}
+<form method="post">
+    @if (!Model.ok)
+    {
+    <div>
+        <br />
+        <h4>Izmena Leka</h4>
+        <br />
+        <div class="font-italic">
+            Bice azurirani samo oni parametri cije vrednosti unesete
+        </div>
+        <br />
+    </div>
+    <div>
+        <div>
+            Unesite Id leka:
+            <input type="text" asp-for="@Model.IdL" />
+        </div>
+        <br />
+        <div>
+            Unesite nov genericki naziv leka:
+            <input type="text" asp-for="@Model.Lek.GenerickiNaziv" />
+        </div>
+        <br />
+        <div>
+            Unesite nov komercijalni naziv leka:
+            <input type="text" asp-for="@Model.Lek.KomercijaniNaziv" />
+        </div>
+        <br />
+        <div>
+            Unesite novu cenu leka:
+            <input type="text" asp-for="@Model.Lek.Cena" />
+        </div>
+        <br />
+        <div>
+            Unesite novu kolicinu leka:
+            <input type="text" asp-for="@Model.Lek.Kolicina" />
+        </div>
+        <br />
+        <div>
+            Unesite novo dejstvo leka:
+            <input type="text" asp-for="@Model.Lek.Dejstvo" />
+        </div>
+        <br />
+        <div>
+            Unesite novu dozu leka:
+            <input type="text" asp-for="@Model.Lek.Doza" />
+        </div>
+        <br />
+        <div>
+            Unesite novu indikaciju leka:
+            <input type="text" asp-for="@Model.Lek.Indikacije" />
+        </div>
+        <br />
+        <div>
+            Unesite novu kontraindikaciju leka:
+            <input type="text" asp-for="@Model.Lek.Kontraindikacije" />
+        </div>
+        <br />
+    </div>
+    <br />
+    <input type="submit" value="Azuriraj" asp-page-handler="Izmena" />
+    }
+    else
+    {
+        <div>Uspesno ste azurirali lek @Model.Lek.GenerickiNaziv</div>
+    }
+    <br />
+    <div>_________________________________________</div>
+    <input type="submit" value="Nazad" asp-page="./Admin" />
+</form>

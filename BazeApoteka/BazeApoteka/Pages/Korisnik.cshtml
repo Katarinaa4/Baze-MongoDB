@@ -1,0 +1,57 @@
+﻿@page
+@model BazeApoteka.Pages.KorisnikModel
+@{
+}
+<div class="text-center">
+    <h1>Korisnik</h1>
+    <br />
+</div>
+<form method="post">
+    <a asp-page="./PrikaziSveApoteke" class="font-weight-bold font-italic "> * Prikazi sve apoteke</a>
+    <br />
+    <div>
+        <div>
+            <br />
+            <label> Pretraga leka po komercijalnom nazivu </label>
+            <input type="text" asp-for="@Model.Komercijani" />
+            <input type="submit" asp-page-handler="Komercijalni" value="Pretrazi" />
+        </div>
+        <div>
+            <br />
+            <label> Pretraga leka po generickom nazivu </label>
+            <input type="text" asp-for="@Model.Genericki" />
+            <input type="submit" asp-page-handler="Genericki" value="Pretrazi" />
+        </div>
+    </div>
+    @if (Model.Nadjeno)
+    {
+        @foreach (BazeApoteka.Entiteti.Lek L in Model.LekoviZaPrikaz)
+        {
+            <br />
+            <div>***********************************************************</div>
+            <div>
+                Genericki naziv: @L.GenerickiNaziv
+            </div>
+            <div>Komercijalni naziv: @L.KomercijaniNaziv</div>
+            <div>Naziv apoteke u kojoj se nalazi ovaj lek: @L.MojaApoteka.Naziv , na adresi @L.MojaApoteka.Adresa</div>
+            <div>Cena leka: @L.Cena</div>
+            <div>Da li je na recept:@L.DaLiJeNaRecept</div>
+            <div>Kolicina leka u apoteci: @L.Kolicina</div>
+            <div>Doza: @L.Doza</div>
+            <div>Indikacije: @L.Indikacije</div>
+            <div>KontraIndikacije: @L.Kontraindikacije</div>
+            <div>Dejstvo: @L.Dejstvo</div>
+            <input type="submit" value="Kupi ovaj lek" asp-page="./KupiLek2" asp-route-id="@L.Id.ToString()" />
+            <br />
+            <div>***********************************************************</div>
+            <br />
+            <br />
+        }
+    }
+    <div>
+        
+        <br />
+        <div>_________________________________________________</div>
+        <input type="submit" value="Nazad" asp-page="./Index" />
+    </div>
+</form>

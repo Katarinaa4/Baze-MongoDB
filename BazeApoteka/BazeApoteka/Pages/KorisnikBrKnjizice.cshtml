@@ -1,0 +1,31 @@
+﻿@page "{id}"
+@model BazeApoteka.Pages.KorisnikBrKnjiziceModel
+@{
+}
+<form method="post">
+    <input type="hidden" id="id" asp-for="@Model.Prosledjeno" />
+    <br />
+    <div>
+        <br />
+        @if (Model.korisnici.Count != 0)
+        {
+            @foreach (BazeApoteka.Entiteti.Korisnik k in Model.korisnici)
+            {
+                <div>
+                    <div class="font-weight-bold">@k.Ime @k.Prezime</div>
+                    <div>Adresa: @k.Adresa</div>
+                    <div>Broj zdravstvene knjizice: @k.BrojZdravstveneKnjizice</div>
+                </div>
+                <br />
+            }
+        }
+        @if (Model.korisnici.Count == 0)
+        {
+            <div>Korisnik sa unetim brojem zdravstvene knjizice @Model.Prosledjeno ne postoji!</div>
+        }
+        </div>
+    
+    <br />
+    <input type="submit" value="Nazad" asp-page="./UcitajKorisnika" />
+
+</form>
